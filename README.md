@@ -1,4 +1,15 @@
-# tinyrand-rs
+<p align="center">
+    <img src="https://raw.githubusercontent.com/DCFargo/tinyrand-rs/master/logo.png">
+</p>
+<br/>
+<p align="center">
+    <img src="https://img.shields.io/github/languages/code-size/DCFargo/tinyrand-rs">
+    <img src="https://img.shields.io/appveyor/build/DCFargo/tinyrand-rs">
+    <img src="https://img.shields.io/codacy/grade/c576297e6d07469784aa809ae93286d8">
+    <img src="https://img.shields.io/github/downloads/DCFargo/tinyrand-rs/total">
+</p>
+<br/>
+  
 tinyrand is a lightweight command-line randomizer built for a user-friendly experience. Originally built in Rust simply as a tool for building in Minecraft, tinyrand's general syntax and small size is capable of a much wider variety of applications.
 
 ## How to use
