@@ -33,4 +33,3 @@ Here are some more examples:
     tinyrand go_to_bed 99 stay_up 1
 
     tinyrand english 90 math 84 science 91
-
